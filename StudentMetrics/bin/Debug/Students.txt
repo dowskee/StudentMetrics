@@ -1,0 +1,10 @@
+Name,GPA,Attendance,Test Scores, On pace for graduation, grade level
+Anto,94,178,87 90 94,yes,12
+Jim,61,154,65 70 75,yes,12
+Gregg,65,170,95 90 85,no,12
+Alexandra,98,180,99 100 95,yes,11
+Bob,40,169,65 60 70,no,9
+Sammy,90,172,74 80 75,yes,10
+John,80,175,82 83 92,yes,11
+Alice,60,170,71 80 76,yes,9
+Rick,54,165,60 55 76,no,12  
